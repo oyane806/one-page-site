@@ -2,7 +2,7 @@
 
 **personal-site** is a minimalist one-page website built with html and css only.
 
-A living demo is [here](https://https://oyane806.github.io/).
+A living demo is [here](https://oyane806.github.io/).
 
 ## Installation
 
