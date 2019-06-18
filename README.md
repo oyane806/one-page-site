@@ -10,7 +10,7 @@ Clone the project and open the index.html file.
 
 ## Usage
 
-![Demo](demo.jpg)  
+![Demo](demo.JPG)  
 * This personal-site lists relevant links about myself.
 * My resume can be downloaded by clicking the corresponding link.
 * Two colored circles are slowly moving in the background.
